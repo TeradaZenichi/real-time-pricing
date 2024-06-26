@@ -1,0 +1,12 @@
+{
+    "input file" :  "examples/BEL_BRU_Brussels.Natl.AP.064510_TMYx.2007-2021.epw",
+    "output file":  "prices.csv",
+    "base price" :  1,  
+    "min price"  : -1e6,
+    "max price"  :  1e6,
+    "solar energy dependency" :         0.074,
+    "wind energy dependency" :          0.120,
+    "combined solar energy dependency": 0.074,
+    "combined wind energy dependency":  0.120,
+    "number of samples [day]":          7
+}
